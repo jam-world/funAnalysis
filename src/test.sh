@@ -1,0 +1,1 @@
+./funAnalysis < ../test/test
